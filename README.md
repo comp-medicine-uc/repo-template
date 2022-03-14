@@ -1,8 +1,12 @@
-# Repository template for scientific research projects
+# Repository template for scientific research projects (replace with paper/project title)
 
 _[@comp-medicine-uc](https://github.com/comp-medicine-uc)_
 
-<< Add a description of your repo here >>
+(Add a description of your repo here)
+
+## Abstract
+
+(Add paper abstract here)
 
 ## Directories
 
@@ -15,7 +19,7 @@ _[@comp-medicine-uc](https://github.com/comp-medicine-uc)_
 
 ## Dependencies
 
-(Modify accordingly) Coded in Python 3.8.2 64-bit. 
+(Modify accordingly, include versions for each library) Coded in Python 3.8.2 64-bit. 
 
 Used libraries:
 
