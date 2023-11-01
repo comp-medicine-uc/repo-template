@@ -10,12 +10,15 @@ _[@comp-medicine-uc](https://github.com/comp-medicine-uc)_
 
 ## Directories
 
-- `manuscript`: Files pertaining to the article related to this project.
-- `presentations`: Files pertaining to presentations of this project.
-- `raw-data`: Input data needed for simulations + Output raw data.
-- `results-data`: Data processed from `raw-data`.
-- `src`: Source files.
-- `tests`: Main files that implement examples and tests.
+- `results`: Figures and tables resulting from analysis. Do NOT include source data or movies here.
+- `src`: Source files. Libraries with general functions go here. Do NOT include main or test files that generate the final results of your work.
+- `tests`: Main files that implement examples and tests
+
+## Regarding Data
+Raw Data, processed data, and results should NOT be included in the GitHub repo. Use the current lab Data Repository and a local copy in your computer for Data purposes.
+
+## Regarding Documents
+Paper drafts, reports, theses, presentation slides, and other sources of documentation should NOT be included in the GitHub repo. Use the lab Overleaf account for storin and version-controlling of these documents. Codes and libraries shold be documented in README.md files in your GitHub repo.
 
 ## Dependencies
 
