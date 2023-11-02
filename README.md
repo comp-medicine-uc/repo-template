@@ -31,6 +31,6 @@ Used libraries:
 Raw Data, processed data, and results should NOT be included in the GitHub repo. Use the current lab Data Repository and a local copy in your computer for Data purposes.
 
 ## Regarding Documents
-Paper drafts, reports, theses, presentation slides, and other sources of documentation should NOT be included in the GitHub repo. Use the lab Overleaf account for storin and version-controlling of these documents. Codes and libraries shold be documented in README.md files in your GitHub repo.
+Paper drafts, reports, theses, presentation slides, and other sources of documentation should NOT be included in the GitHub repo. Use the lab Overleaf account for storage and version control of papers, reports, and theses. Codes and libraries shold be documented in README.md files in your GitHub repo.
 
 
